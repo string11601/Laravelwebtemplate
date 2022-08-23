@@ -1,0 +1,10 @@
+/*@font-face {
+    font-family:'minifont' ;
+    src: url('../font/MN/MINIMON/MNMINIMONLight.ttf');
+}
+*/
+body{
+
+   font-family: 'Mitr', sans-serif;
+   /* font-family: 'minifont', sans-serif;*/
+}
